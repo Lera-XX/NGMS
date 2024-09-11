@@ -1,0 +1,4 @@
+/home/valeria/zero/build/CMakeFiles/client.dir
+/home/valeria/zero/build/CMakeFiles/server.dir
+/home/valeria/zero/build/CMakeFiles/edit_cache.dir
+/home/valeria/zero/build/CMakeFiles/rebuild_cache.dir
